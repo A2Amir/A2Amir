@@ -40,7 +40,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 
 ### Publications:
 * [Google Scholar](https://scholar.J&hl=en&oi=ao)
-* 
+
 ### Technologies & Tools
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Framework>-<Tensorflow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
