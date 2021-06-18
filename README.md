@@ -20,7 +20,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 
 <p align="center"   >
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=A2Amir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
