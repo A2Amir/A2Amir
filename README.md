@@ -10,11 +10,10 @@ Recently, i completed my second master's degree in Web Communication and Informa
 
 Experience:
 
-* Senior AI Research Engineer - [BlkSky](https:/y.com/)
-* Senior Data Scientist - [HoeCanary](https://www..com/)
-* Senior Data Scientist - [Booz  Hamilton](https://www..com/)
-* Research Engineer - [ Research Institute (SwRI)](https://www..org/)
-* Research Intern - [Oak   Laboratory (ORNL)](https://www..gov/)
+* Server Administrator at the University of Vienna - [University of Vienna](https://dm.cs.univie.ac.at/team/person/114780/)
+* Research assitant at the University of Applied Science FH kufstein - [FH-kufstein](https://www.fh-kufstein.ac.at)
+* Information Technology Teacher at the Javan Rayaneh institut 
+* Research Intern at the Afarinesh institut 
 
 Education:
 * Master of Science in Web Communication and Information System
@@ -23,9 +22,9 @@ Education:
 
 Licenses & certifications:
 
-* Natural Language Processing Nanodegree, Issuing authority Udacity, [See credential](https://confirm.udacity.com/YJJZXUKL)
-* Data Scientist Nanodegree, Issuing authority Udacity, [See credential](https://confirm.udacity.com/XUDDDHDL)
-* Self-Driving Car Engineer, Issuing authority Udacity, [See credential](https://graduation.udacity.com/confirm/DDS6DNSM) 
+* Natural Language Processing Nanodegree -  [See credential](https://confirm.udacity.com/YJJZXUKL)
+* Data Scientist Nanodegree - [See credential](https://confirm.udacity.com/XUDDDHDL)
+* Self-Driving Car Engineer - [See credential](https://graduation.udacity.com/confirm/DDS6DNSM) 
 
 Publications:
-* [Google Scholar](https://scholar.google.com/citations?user=Xw0xO3UAAAAJ&hl=en&oi=ao)
+* [Google Scholar](https://scholar.J&hl=en&oi=ao)
