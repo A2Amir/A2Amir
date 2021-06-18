@@ -21,6 +21,11 @@ Education:
 * Master of Sciencen in Software Engineering
 * Bachelor of Science in Computer Science
 
+Licenses & certifications:
+
+* Natural Language Processing Nanodegree, Issuing authority Udacity, [See credential](https://confirm.udacity.com/YJJZXUKL)
+* Data Scientist Nanodegree, Issuing authority Udacity, [See credential](https://confirm.udacity.com/XUDDDHDL)
+* Self-Driving Car Engineer, Issuing authority Udacity, [See credential](https://graduation.udacity.com/confirm/DDS6DNSM) 
 
 Publications:
 * [Google Scholar](https://scholar.google.com/citations?user=Xw0xO3UAAAAJ&hl=en&oi=ao)
