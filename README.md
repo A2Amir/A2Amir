@@ -3,15 +3,6 @@
 I am Amir, who loves analysing big data and building smart products in the field of Machine Learning, Computer Vision, Natural Language Processing (NLP), Data Science and Artificial Intelligence.  I have collaborated as a researcher, computer vision and NLP engineer with 4+ years of experience in academic and research environments. I have a great passion for high-tech solutions to address real-world problems with my background in NLP, Deep Learning, and Machine Learning. In recent years, I have focused on the field of natural language processing and computer vision as an intermediate field because I believe that sooner or later AI will inevitably impact all aspects of our lives, particularly how people make communication and share knowledge.
 
 
-<p align="center"   >
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A2Amir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-  
-
-</p>       
-
 
 ### Experience:
 
@@ -41,6 +32,15 @@ I am Amir, who loves analysing big data and building smart products in the field
 ### Publications:
 * [Google Scholar](https://scholar.J&hl=en&oi=ao)
 
+### GitHub Status
+<p align="center"   >
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A2Amir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  
+
+</p>     
 ### Technologies & Tools
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Framework>-<Tensorflow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
