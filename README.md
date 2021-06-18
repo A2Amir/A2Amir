@@ -49,6 +49,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 ![](https://img.shields.io/badge/<WorkloadManager>-<Slurm>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Library>-<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Library>-<HuggingFace>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Library>-<Numpy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
