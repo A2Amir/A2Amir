@@ -2,7 +2,7 @@
 Hi, I am Amir, who loves analysing big data and building smart products in the field of Machine Learning, Computer Vision, Natural Language Processing (NLP), Data Science and Artificial Intelligence.  I have collaborated as a researcher, computer vision and NLP engineer with 4+ years of experience in academic and research environments. I have a great passion for high-tech solutions to address real-world problems with my background in NLP, Deep Learning, and Machine Learning. In recent years, I have focused on the field of natural language processing and computer vision as an intermediate field because I believe that sooner or later AI will inevitably impact all aspects of our lives, particularly how people make communication and share knowledge.
 
 
-<table align="center" >
+<table align="center" cellspacing="0" cellpadding="0"  >
 	<tr>
      <td align="center" width="9999" >
 	     
@@ -13,8 +13,6 @@ Hi, I am Amir, who loves analysing big data and building smart products in the f
     </td>
   </tr>
 </table>       
-
-
 
 
 ### Experience:
