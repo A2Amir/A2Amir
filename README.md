@@ -6,10 +6,11 @@ Hi, I am Amir, who loves analysing big data and building smart products in the f
 <table align="center">
 	<tr>
      <td align="center" width="9999">
-		  <img src="https://github-readme-stats.vercel.app/api?username=A2Amir&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
-	   </td>
+	     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)   
+     </td>
      <td align="center" width="9999">
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2Amir&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+	     <img src="https://github-readme-stats.vercel.app/api?username=A2Amir&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
     </td>
   </tr>
 </table>       
