@@ -9,19 +9,19 @@ Hi, I am Amir, who loves analysing big data and building smart products in the f
 </p>
 
 
-Experience:
+### Experience:
 
 * Server Administrator at the University of Vienna - [University of Vienna](https://dm.cs.univie.ac.at/team/person/114780/)
 * Research assitant at the University of Applied Science FH kufstein - [FH-kufstein](https://www.fh-kufstein.ac.at)
 * Information Technology Teacher at the Javan Rayaneh institut 
 * Research Intern at the Afarinesh institut 
 
-Education:
+### Education:
 * Master of Science in Web Communication and Information System
 * Master of Sciencen in Software Engineering
 * Bachelor of Science in Computer Science
 
-Licenses & certifications:
+### Licenses & certifications:
 
 * Natural Language Processing Nanodegree -  [See credential](https://confirm.udacity.com/YJJZXUKL)
 * Data Scientist Nanodegree - [See credential](https://confirm.udacity.com/XUDDDHDL)
@@ -34,5 +34,5 @@ Licenses & certifications:
 * Ethical Hacking (CEH)
 
 
-Publications:
+### Publications:
 * [Google Scholar](https://scholar.J&hl=en&oi=ao)
