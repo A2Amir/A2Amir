@@ -21,6 +21,13 @@ Licenses & certifications:
 * Natural Language Processing Nanodegree -  [See credential](https://confirm.udacity.com/YJJZXUKL)
 * Data Scientist Nanodegree - [See credential](https://confirm.udacity.com/XUDDDHDL)
 * Self-Driving Car Engineer - [See credential](https://graduation.udacity.com/confirm/DDS6DNSM) 
+* Deep Learning with TensorFlow - [See credential](https://courses.cognitiveclass.ai/certificates/7c2f6215801f4296ae3762946b8ebb4c) 
+* Container & Kubernetes Essentials with IBM Cloud - [See credential](https://courses.cognitiveclass.ai/certificates/c941e4a12d404b7a93f20b31d1fcaffc) 
+* Accelerating Deep Learning with GPU - [See credential](https://courses.cognitiveclass.ai/certificates/9aff60d6eae949c29e43edbce2ad4c65) 
+* Natural Language Understanding, Stanford University 
+* Reinforcement Learning
+* Ethical Hacking (CEH)
+
 
 Publications:
 * [Google Scholar](https://scholar.J&hl=en&oi=ao)
