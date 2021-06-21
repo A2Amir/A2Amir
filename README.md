@@ -40,7 +40,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 
 
 ### Publications:
-* [Google Scholar](https://scholar.J&hl=en&oi=ao)
+* [An Adaptive Deep Network for Building Footprint Segmentation](https://arxiv.org/abs/2103.00286)
 
 
 
