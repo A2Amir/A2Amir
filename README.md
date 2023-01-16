@@ -43,7 +43,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 ### Publications:
 * [An Adaptive Deep Network for Building Footprint Segmentation](https://arxiv.org/abs/2103.00286)
 * [SFS-A68: A dataset for the segmentation of space functions in apartment buildings](https://doi.org/10.7146/aul.455.c222)
-* [Batch Layer Normalization, A new normalization layer for CNNs and RNN](http://arxiv.org/abs/2209.08898)
+* [Batch Layer Normalization, A new normalization layer for CNNs and RNN](https://doi.org/10.1145/3571560.3571566)
 
 
 
