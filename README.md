@@ -1,20 +1,20 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Amir, who loves analysing big data and building smart products in the field of Machine Learning, Computer Vision, Natural Language Processing (NLP), Data Science and Artificial Intelligence.  I have collaborated as a researcher, computer vision and NLP engineer with 4+ years of experience in academic and research environments. I have a great passion for high-tech solutions to address real-world problems with my background in NLP, Deep Learning, and Machine Learning. In recent years, I have focused on the field of natural language processing and computer vision as an intermediate field because I believe that sooner or later AI will inevitably impact all aspects of our lives, particularly how people make communication and share knowledge.
+I am Amir, who loves analysing big data and building smart products in the field of Machine Learning, Computer Vision, Natural Language Processing (NLP), Data Science, and Robotics.  I have collaborated as a researcher, computer vision, and NLP engineer with 5+ years of experience in academic and research environments. I have a great passion for high-tech solutions to address real-world problems with my background in NLP, Deep Learning, and Machine Learning. In recent years, I have focused on the field of natural language processing and computer vision as an intermediate field because I believe that sooner or later AI will inevitably impact all aspects of our lives, particularly how people make communication and share knowledge.
 
 
 
-### Experience:
-
-* PhD Student at Vienna University of Technology 
-* Server Administrator at the University of Vienna 
-* Research assitant at the University of Applied Science FH kufstein
-* Information Technology Teacher at the Javan Rayaneh institut 
-* Research Intern at the Afarinesh institut 
+### Academic positions:
+* Research assistant; Institute for Architectural Sciences, Technical University of Vienna, Austria
+* Server Administrator; Computer Science Faculty, Data Mining and Machine Learning, University of Vienna, Austria
+* Research assistant at the University of Applied Science FH Kufstein
+* Information Technology Teacher at the Javan Rayaneh Institut 
+* Research Intern at the Afarinesh Institut 
 
 ### Education:
+* Ph.D. Student at Design Computing Group, Technical University of Vienna, Austria
 * Master of Science in Web Communication and Information System
-* Master of Sciencen in Software Engineering
+* Master of Science in Software Engineering
 * Bachelor of Science in Computer Science
 
 ### GitHub Stats
