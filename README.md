@@ -67,6 +67,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 ![](https://img.shields.io/badge/<Library>-<scikit-learn>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Library>-<Pandas>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Library>-<SQLite>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/<Library>-<pyTorch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Library>-<Numpy>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
