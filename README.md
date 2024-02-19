@@ -42,8 +42,8 @@ I am Amir, who loves analysing big data and building smart products in the field
 
 
 ### Publications:
-
-* [SFS-A68: A dataset for the segmentation of space functions in apartment buildings](https://doi.org/10.7146/aul.455.c222)
+* [Space function classification in apartment buildings using image deep learning semantic segmentation](https://track.authorhub.elsevier.com/?uuid=e062c1f3-9847-41f2-b5c7-7aa2dbf4d50b)
+* [SAGC-A68: a space access graph dataset for the classification of spaces and space elements in apartment buildings](http://dx.doi.org/10.48550/arXiv.2307.04515)
 * [Extracting topological features from room polygons based on a 2dimensional space partitioning approach](https://www.ucl.ac.uk/bartlett/construction/sites/bartlett_construction/files/extracting_topological_features_from_room_polygons_based_on_a_2-dimensional_space_partitioning_approach.pdf)
 * [Batch Layer Normalization, A new normalization layer for CNNs and RNN](https://doi.org/10.1145/3571560.3571566)
 * [SFS-A68: a dataset for the segmentation of space functions in apartment buildings](https://doi.org/10.7146/aul.455.c222)
