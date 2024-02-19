@@ -29,6 +29,7 @@ I am Amir, who loves analysing big data and building smart products in the field
 
 ### Licenses & certifications:
 
+* Knowledge Graphs -  [See credential]([https://confirm.udacity.com/YJJZXUKL](https://www.udemy.com/certificate/UC-277d5c92-1f8d-44cc-a18d-cb2975617a4e/))
 * Natural Language Processing Nanodegree -  [See credential](https://confirm.udacity.com/YJJZXUKL)
 * Data Scientist Nanodegree - [See credential](https://confirm.udacity.com/XUDDDHDL)
 * Self-Driving Car Engineer - [See credential](https://graduation.udacity.com/confirm/DDS6DNSM) 
